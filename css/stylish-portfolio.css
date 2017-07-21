@@ -60,7 +60,7 @@ body {
 .btn-green {
     border-radius: 500px;
     color: #fff;
-    background-color: #84bd00;
+    background-color: #6AE368;
     -webkit-box-shadow: 0px 5px 0px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 5px 0px 0px rgba(0,0,0,0.75);
     box-shadow: 0px 5px 0px 0px rgba(0,0,0,0.75);
@@ -70,7 +70,7 @@ body {
 .btn-green:focus,
 .btn-green:active {
     color: #fff;
-    background-color: #6b9900;
+    background-color: #22ac20;
 }
 
 /* Custom Horizontal Rule */
